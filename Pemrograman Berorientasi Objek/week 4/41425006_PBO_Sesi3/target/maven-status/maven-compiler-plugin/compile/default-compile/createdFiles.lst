@@ -1,0 +1,13 @@
+BagianA\BankAccount.class
+BagianA\CreditCardPayment.class
+BagianA\PaymentMethod.class
+BagianB\Connectable.class
+BagianB\Main.class
+BagianB\SmartLamp.class
+BagianB\Switchable.class
+BagianB\SmartAC.class
+BagianA\EWalletPayment.class
+BagianB\SmartHome.class
+id\ac\del\rental\VehicleRental.class
+BagianB\StudentGrade.class
+BagianA\PaymentSystem.class
