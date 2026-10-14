@@ -1,0 +1,39 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package method_01;
+
+/**
+ *
+ * @author Arini
+ */
+
+/* 
+NAMA  : ARINI JELITA REZEKI SITANGGANG
+NIM   : 41425006
+PRODI : TEKNOLOGI REKAYASA PERANGKAT LUNAK
+*/
+
+public class Geeks {
+    static String name;
+    static float price;
+    
+    static void set (String n, float p){
+        name = n;
+        price = p;
+    }
+    
+    static void get()
+    {
+        System.out.println("Software name is: " + name);
+        System.out.println("Software price is: " + price);
+    }
+    
+    public static void main(String args[])
+    {
+        Geeks.set("Visual studio", 0.0f);
+        Geeks.get();
+}
+}
+
