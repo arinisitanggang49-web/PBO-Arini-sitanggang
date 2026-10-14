@@ -1,0 +1,1 @@
+CaraMembuatObjekDariClass02.Main2
